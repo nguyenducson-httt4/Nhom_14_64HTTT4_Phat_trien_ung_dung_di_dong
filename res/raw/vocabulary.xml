@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <word name="apple" ipa="ˈæp.əl" n="táo" img="https://www.collinsdictionary.com/images/full/apple_158989157.jpg" sound="https://ssl.gstatic.com/dictionary/static/sounds/20220808/apple--_us_1.mp3" />
+    <word name="dog" ipa="dɔɡ" n="chó" img="https://www.forbes.com/advisor/wp-content/uploads/2021/04/dogecoin.jpeg-900x510.jpg" sound="https://ssl.gstatic.com/dictionary/static/sounds/20220808/dog--_us_1_rr.mp3" />
+    <!-- Thêm 198 từ còn lại -->
+</resources>
